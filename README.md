@@ -1,3 +1,3 @@
-# TWO_FRAGMENT_CONCEPTS
-This is Simple program of Two Fragment in One Container...!!
+# Operations between two fragments.
+This is Simple project how to perform the opertion between two fragments.
 
